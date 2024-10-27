@@ -1,0 +1,69 @@
+ul.listitems {list-style:none;}	
+ul.listitems li { text-align:center; float:left; width: 200px; list-style:none; margin-bottom:25px;}
+
+.viewcart { margin-top:25px; }
+.viewcart .viewcartitemimage { float:left; width:200px; margin:0 auto 10px auto; display:block; text-align:center; }
+.viewcart .viewcartitemimage img { background:#f2f2f2; padding:5px; }
+.viewcart .viewcartitemdetails { float:left; margin-left:20px; width:350px;  margin-bottom:10px; }
+
+.viewcartmenu ul {  }
+
+.viewcartmenu ul li { float:left; list-style:none; padding:10px;  }
+.subtotal { padding:10px;  background:#f2f2f2; text-align:right; }
+.subtotal ul { margin:0; padding:0; }
+.subtotal ul li { list-style:none;}
+
+.storenotice { padding:10px 10px 25px 10px;  width:100%; margin:0 auto 25px auto; background:#ffffff; border:5px solid#f2f2f2; }
+
+.updatebutton { background:#f2f2f2; border:1px solid #dddddd;} 
+.updatequantitybox { border:1px solid #dddddd;}
+
+.indexnonstore {width:100%; margin: 0 auto 25px auto;}
+
+.singleitemview { width:100%;}
+
+.singleitemview .itemimage { float:left; width:250px; 	}
+.singleitemview .itemimage img { width:280px; 	}
+	
+.singleitemview .itemdetails { float:right; width:250px; }
+
+.amacontinueshoppingbutton {
+text-align:center;
+font-weight:bold;
+font-size:15px;
+text-shadow:1px 1px 1px #000000;
+color:#ffffff;
+padding:5px;}
+
+.amaaddtocartbutton{
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-left-radius: 10px;
+-moz-border-radius-topright:10px;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-bottomright:10px;
+-moz-border-radius-bottomleft:10px;
+border:1px solid #000000;
+background:#000000;
+color:#ffffff;
+margin-top:5px;
+text-align:center;
+text-shadow:1px 1px 1px #444444;
+padding:5px;}
+
+
+.listitems {width:100%;}
+
+.listitems img { float:left; }
+
+.itemsleft { float:left; width:230px;
+	padding: 0px 10px 10px 10px; margin-bottom:30px;
+	
+}
+
+.itemsright { float:right; width:230px;
+	padding: 0px 10px 10px 10px; margin-bottom:30px;
+}
+
+.listitems .prices { }
